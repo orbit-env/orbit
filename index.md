@@ -23,3 +23,11 @@ Anonymous Author(s)
   We hope it helps establish interdisciplinary collaborations between these communities and its modularity makes it easily extensible for more tasks and applications in the future.
 
 <img src="images/teaser.png" alt="Teaser" style="width:90%;margin: auto;display: block;">
+
+## Paper Video
+
+<video width="90%" controls>
+  <source src="videos/OBRIT_video.mp4" type="video/mp4">
+  <p>Your browser doesn't support HTML5 video. Here is
+    a <a href="videos/OBRIT_video.mp4">link to the video</a> instead.</p>
+</video>
