@@ -8,7 +8,7 @@ title: Home
 Anonymous Author(s)
 
 
-[*[Arxiv Paper]()*] [*[Video]()*]
+[*[Arxiv Paper]()*] [*[Video](https://www.youtube.com/watch?v=DkSMMK5krcA)*]
 
 ## Abstract
 
