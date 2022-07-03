@@ -12,7 +12,7 @@ Anonymous Author(s)
 
 ## Abstract
 
-<img src="images/teaser.png" alt="Teaser" style="width:90%;margin: auto;display: block;">
+<img src="images/teaser.png" alt="Teaser" style="width:100%;margin: auto;display: block;">
 
   We present ORBIT, a unified and modular framework for robotics and robot learning, powered by NVIDIA Isaac Sim.
   It offers a modular design to easily and efficiently create robotic environments with photo-realistic scenes and fast and accurate rigid and soft body simulation. 
@@ -26,7 +26,7 @@ Anonymous Author(s)
 
 ## Paper Video
 
-<video width="90%" controls>
+<video width="100%" controls>
   <source src="videos/OBRIT_video.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
     a <a href="videos/OBRIT_video.mp4">link to the video</a> instead.</p>
@@ -36,7 +36,7 @@ Anonymous Author(s)
 
 ### Reinforcement Learning
 
-<video width="90%" controls>
+<video width="100%" controls>
   <source src="videos/Workflow-RL.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
     a <a href="videos/Workflow-RL.mp4">link to the video</a> instead.</p>
@@ -46,7 +46,7 @@ We include wrappers for different RL frameworks. Using RSL-RL and RL-Games, we c
 
 ### Motion Planning and Control
 
-<video width="90%" controls>
+<video width="100%" controls>
   <source src="videos/Workflow-MotionPlanningAndControl.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
     a <a href="videos/Workflow-MotionPlanningAndControl.mp4">link to the video</a> instead.</p>
@@ -56,7 +56,7 @@ With additional nodes for planning and selecting grasps, we can create more exci
 
 ### Real Robot Experiment
 
-<video width="90%" controls>
+<video width="100%" controls>
   <source src="videos/Workflow-RealRobot.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
     a <a href="videos/Workflow-RealRobot.mp4">link to the video</a> instead.</p>
