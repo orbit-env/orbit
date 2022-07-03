@@ -31,3 +31,35 @@ Anonymous Author(s)
   <p>Your browser doesn't support HTML5 video. Here is
     a <a href="videos/OBRIT_video.mp4">link to the video</a> instead.</p>
 </video>
+
+## Workflows
+
+### Reinforcement Learning
+
+<video width="90%" controls>
+  <source src="videos/Workflow-RL.mp4" type="video/mp4">
+  <p>Your browser doesn't support HTML5 video. Here is
+    a <a href="videos/Workflow-RL.mp4">link to the video</a> instead.</p>
+</video>
+
+We include wrappers for different RL frameworks. Using RSL-RL and RL-Games, we can train policies for cabinet opening and end-effector tracking within minutes, obtaining up to 100k samples per second.
+
+### Motion Planning and Control
+
+<video width="90%" controls>
+  <source src="videos/Workflow-MotionPlanningAndControl.mp4" type="video/mp4">
+  <p>Your browser doesn't support HTML5 video. Here is
+    a <a href="videos/Workflow-MotionPlanningAndControl.mp4">link to the video</a> instead.</p>
+</video>
+
+With additional nodes for planning and selecting grasps, we can create more exciting applications such as previewing grasps before execution, and designing state machines for performing tasks.
+
+### Real Robot Experiment
+
+<video width="90%" controls>
+  <source src="videos/Workflow-RealRobot.mp4" type="video/mp4">
+  <p>Your browser doesn't support HTML5 video. Here is
+    a <a href="videos/Workflow-RealRobot.mp4">link to the video</a> instead.</p>
+</video>
+
+Extending orbit’s interfaces to a real robot is seamless. By replacing the virtual world with the real-world and communicating observations and actions over ZMQ, we can observe the simulated and real behaviors while executing the same agent policies.
